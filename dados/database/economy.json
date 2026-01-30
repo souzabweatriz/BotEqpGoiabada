@@ -1,10 +1,10 @@
 {
   "users": {
     "7894602915844@lid": {
-      "wallet": 215,
+      "wallet": 459,
       "bank": 0,
       "cooldowns": {
-        "work": 1769810927551,
+        "work": 1769813782482,
         "rob": 1769810918210
       },
       "inventory": {},
@@ -55,7 +55,7 @@
           {
             "type": "work",
             "target": 26,
-            "progress": 1
+            "progress": 2
           }
         ],
         "reward": 3202,
@@ -87,7 +87,7 @@
           {
             "type": "work",
             "target": 84,
-            "progress": 1
+            "progress": 2
           }
         ],
         "reward": 15647,
@@ -121,7 +121,7 @@
         },
         "working": {
           "level": 1,
-          "xp": 1
+          "xp": 2
         },
         "fishing": {
           "level": 1,
@@ -161,8 +161,8 @@
       "lastWeekly": 0,
       "lastMonthly": 0,
       "stats": {
-        "totalWork": 1,
-        "workCount": 1
+        "totalWork": 2,
+        "workCount": 2
       }
     },
     "51411362541577@lid": {

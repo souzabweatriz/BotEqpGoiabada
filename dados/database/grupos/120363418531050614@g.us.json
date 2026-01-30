@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-30T22:10:37.006Z",
+  "groupName": "Só os Loucos",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "66130249003037@lid",
+      "msg": 2,
+      "cmd": 2,
+      "figu": 0,
+      "pushname": "Ana",
+      "firstSeen": "2026-01-30T22:10:37.017Z",
+      "lastActivity": "2026-01-30T22:11:29.616Z"
+    }
+  ]
+}

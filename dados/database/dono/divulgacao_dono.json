@@ -1,0 +1,15 @@
+{
+  "groups": [],
+  "message": "",
+  "schedule": {
+    "enabled": false,
+    "time": null,
+    "lastRun": null
+  },
+  "stats": {
+    "totalSent": 0,
+    "lastManual": null,
+    "lastAuto": null
+  },
+  "createdAt": "2026-01-30T18:08:42.659Z"
+}

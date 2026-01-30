@@ -28,7 +28,6 @@ ${middleBorder}${menuItemIcon}${prefix}statusbot
 ${middleBorder}${menuItemIcon}${prefix}statusgp
 ${middleBorder}${menuItemIcon}${prefix}regras
 ${middleBorder}${menuItemIcon}${prefix}zipbot
-${middleBorder}${menuItemIcon}${prefix}gitbot
 ${bottomBorder}
 
 ${menuTopBorder}${separatorIcon} *${personalMenuTitle}*

@@ -1,0 +1,82 @@
+{
+  "bemvindo": false,
+  "welcome": {},
+  "textbv": "",
+  "exit": {
+    "enabled": false,
+    "text": "",
+    "image": ""
+  },
+  "blacklist": {},
+  "autoAcceptRequests": false,
+  "captchaEnabled": false,
+  "x9": false,
+  "pendingCaptchas": {},
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "groupName": "𝐍𝐚𝐦𝐨𝐫𝐨 𝐨𝐮 𝐀𝐦𝐢𝐳𝐚𝐝𝐞",
+  "contador": [
+    {
+      "id": "147210675196002@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "jc",
+      "firstSeen": "2026-01-31T02:25:25.709Z",
+      "lastActivity": "2026-01-31T02:27:50.902Z"
+    },
+    {
+      "id": "38917403357336@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Leandro",
+      "firstSeen": "2026-01-31T02:26:09.033Z",
+      "lastActivity": "2026-01-31T02:26:09.033Z"
+    },
+    {
+      "id": "230794446565403@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Tiagao",
+      "firstSeen": "2026-01-31T02:26:48.683Z",
+      "lastActivity": "2026-01-31T02:28:02.333Z"
+    },
+    {
+      "id": "32466345672792@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "~Dinho",
+      "firstSeen": "2026-01-31T02:26:58.256Z",
+      "lastActivity": "2026-01-31T02:27:13.683Z"
+    },
+    {
+      "id": "40278891200762@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "mirellasantiago157",
+      "firstSeen": "2026-01-31T02:27:31.034Z",
+      "lastActivity": "2026-01-31T02:27:31.134Z"
+    },
+    {
+      "id": "247193218867335@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Pedro Moura🎸🎤🎧",
+      "firstSeen": "2026-01-31T02:28:26.492Z",
+      "lastActivity": "2026-01-31T02:28:32.541Z"
+    }
+  ]
+}

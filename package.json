@@ -5,7 +5,7 @@
     "type": "module",
     "main": "dados/src/connect.js",
     "scripts": {
-        "start": "node dados/src/.scripts/start.js",
+        "start": "node server.js",
         "dev": "nodemon dados/src/.scripts/start.js",
         "config": "node dados/src/.scripts/config.js",
         "config:install": "node dados/src/.scripts/config.js --install",

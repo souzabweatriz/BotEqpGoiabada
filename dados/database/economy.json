@@ -167,9 +167,9 @@
     },
     "51411362541577@lid": {
       "wallet": 0,
-      "bank": 209,
+      "bank": 455,
       "cooldowns": {
-        "work": 1769811194941
+        "work": 1769817702048
       },
       "inventory": {},
       "items": {},
@@ -187,7 +187,7 @@
           {
             "type": "work",
             "target": 3,
-            "progress": 1
+            "progress": 2
           },
           {
             "type": "explore",
@@ -219,7 +219,7 @@
           {
             "type": "work",
             "target": 16,
-            "progress": 1
+            "progress": 2
           }
         ],
         "reward": 4954,
@@ -246,7 +246,7 @@
           {
             "type": "work",
             "target": 68,
-            "progress": 1
+            "progress": 2
           },
           {
             "type": "crimeSuccess",
@@ -255,6 +255,340 @@
           }
         ],
         "reward": 16569,
+        "claimed": false
+      },
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 2
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 0
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1769810294941,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "stats": {
+        "totalWork": 2,
+        "workCount": 2
+      }
+    },
+    "134192612524235@lid": {
+      "wallet": 0,
+      "bank": 245,
+      "cooldowns": {
+        "work": 1769819352741
+      },
+      "inventory": {},
+      "items": {},
+      "job": "gerente",
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1769828399999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 5,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 5,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 3,
+            "progress": 0
+          }
+        ],
+        "reward": 528,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1770001199999,
+        "tasks": [
+          {
+            "type": "fish",
+            "target": 18,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 16,
+            "progress": 1
+          },
+          {
+            "type": "hunt",
+            "target": 24,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 29,
+            "progress": 0
+          }
+        ],
+        "reward": 4647,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 85,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 77,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 72,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 99,
+            "progress": 1
+          },
+          {
+            "type": "fish",
+            "target": 69,
+            "progress": 0
+          }
+        ],
+        "reward": 19524,
+        "claimed": false
+      },
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": {
+        "spouse": null,
+        "children": [],
+        "parents": [],
+        "siblings": []
+      },
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 1
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 0
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1769816359345,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "stats": {
+        "totalWork": 1,
+        "workCount": 1
+      }
+    },
+    "82498386161724@lid": {
+      "wallet": 0,
+      "bank": 270,
+      "cooldowns": {
+        "work": 1769819830035,
+        "rob": 1769819544925
+      },
+      "inventory": {},
+      "items": {},
+      "job": "gerente",
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1769828399999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 7,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 7,
+            "progress": 0
+          }
+        ],
+        "reward": 607,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1770001199999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 27,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 18,
+            "progress": 1
+          },
+          {
+            "type": "mine",
+            "target": 19,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 21,
+            "progress": 0
+          }
+        ],
+        "reward": 4404,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "fish",
+            "target": 85,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 96,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 65,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 72,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 82,
+            "progress": 1
+          }
+        ],
+        "reward": 18513,
         "claimed": false
       },
       "level": 1,
@@ -320,7 +654,827 @@
       "battlesWon": 0,
       "battlesLost": 0,
       "lotteryTickets": 0,
-      "createdAt": 1769810294941,
+      "createdAt": 1769818918965,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "stats": {
+        "totalWork": 1,
+        "workCount": 1
+      }
+    },
+    "2788104904866@lid": {
+      "wallet": 0,
+      "bank": 245,
+      "cooldowns": {
+        "work": 1769819833799
+      },
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1769828399999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 6,
+            "progress": 0
+          },
+          {
+            "type": "hunt",
+            "target": 5,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 4,
+            "progress": 0
+          }
+        ],
+        "reward": 627,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1770001199999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 18,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 24,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 23,
+            "progress": 1
+          },
+          {
+            "type": "hunt",
+            "target": 25,
+            "progress": 0
+          }
+        ],
+        "reward": 3776,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "fish",
+            "target": 88,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 84,
+            "progress": 1
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 90,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 76,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 63,
+            "progress": 0
+          }
+        ],
+        "reward": 17258,
+        "claimed": false
+      },
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 1
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 0
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1769818933799,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "stats": {
+        "totalWork": 1,
+        "workCount": 1
+      }
+    },
+    "66370599416022@lid": {
+      "wallet": 0,
+      "bank": 428,
+      "cooldowns": {
+        "work": 1769825485796
+      },
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1769828399999,
+        "tasks": [
+          {
+            "type": "work",
+            "target": 7,
+            "progress": 2
+          },
+          {
+            "type": "mine",
+            "target": 3,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 3,
+            "progress": 0
+          }
+        ],
+        "reward": 598,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1770001199999,
+        "tasks": [
+          {
+            "type": "explore",
+            "target": 23,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 16,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 20,
+            "progress": 2
+          },
+          {
+            "type": "hunt",
+            "target": 30,
+            "progress": 0
+          }
+        ],
+        "reward": 3219,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "explore",
+            "target": 95,
+            "progress": 0
+          },
+          {
+            "type": "hunt",
+            "target": 100,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 78,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 84,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 89,
+            "progress": 2
+          }
+        ],
+        "reward": 17673,
+        "claimed": false
+      },
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 2
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 0
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1769818961477,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "stats": {
+        "totalWork": 2,
+        "workCount": 2
+      }
+    },
+    "36486367940632@lid": {
+      "wallet": 0,
+      "bank": 173,
+      "cooldowns": {
+        "work": 1769825418729
+      },
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1769828399999,
+        "tasks": [
+          {
+            "type": "explore",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 6,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 6,
+            "progress": 0
+          }
+        ],
+        "reward": 357,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1770001199999,
+        "tasks": [
+          {
+            "type": "explore",
+            "target": 20,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 20,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 24,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 15,
+            "progress": 1
+          }
+        ],
+        "reward": 4043,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "fish",
+            "target": 92,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 86,
+            "progress": 1
+          },
+          {
+            "type": "hunt",
+            "target": 96,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 94,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 90,
+            "progress": 0
+          }
+        ],
+        "reward": 16858,
+        "claimed": false
+      },
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 1
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 0
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1769824518721,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "stats": {
+        "totalWork": 1,
+        "workCount": 1
+      }
+    },
+    "247644274327557@lid": {
+      "wallet": 0,
+      "bank": 194,
+      "cooldowns": {
+        "work": 1769825533077
+      },
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1769828399999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 3,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 7,
+            "progress": 0
+          }
+        ],
+        "reward": 579,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1770001199999,
+        "tasks": [
+          {
+            "type": "hunt",
+            "target": 19,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 25,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 21,
+            "progress": 1
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 25,
+            "progress": 0
+          }
+        ],
+        "reward": 3108,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "mine",
+            "target": 69,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 67,
+            "progress": 1
+          },
+          {
+            "type": "fish",
+            "target": 74,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 82,
+            "progress": 0
+          },
+          {
+            "type": "hunt",
+            "target": 96,
+            "progress": 0
+          }
+        ],
+        "reward": 15991,
+        "claimed": false
+      },
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 1
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 0
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1769824633077,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "stats": {
+        "totalWork": 1,
+        "workCount": 1
+      }
+    },
+    "115685380337813@lid": {
+      "wallet": 157,
+      "bank": 0,
+      "cooldowns": {
+        "work": 1769866630620
+      },
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "crimeSuccess",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "hunt",
+            "target": 5,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 6,
+            "progress": 0
+          }
+        ],
+        "reward": 624,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1770001199999,
+        "tasks": [
+          {
+            "type": "explore",
+            "target": 16,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 24,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 20,
+            "progress": 1
+          },
+          {
+            "type": "fish",
+            "target": 20,
+            "progress": 0
+          }
+        ],
+        "reward": 3576,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1769914799999,
+        "tasks": [
+          {
+            "type": "mine",
+            "target": 60,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 96,
+            "progress": 1
+          },
+          {
+            "type": "fish",
+            "target": 86,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 76,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 70,
+            "progress": 0
+          }
+        ],
+        "reward": 18347,
+        "claimed": false
+      },
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 1
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 0
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1769865730619,
       "lastDaily": 0,
       "lastWeekly": 0,
       "lastMonthly": 0,

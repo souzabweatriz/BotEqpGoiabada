@@ -1,0 +1,45 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-30T22:49:23.763Z",
+  "groupName": "s",
+  "modorpg": true,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "66130249003037@lid",
+      "msg": 46,
+      "cmd": 9,
+      "figu": 11,
+      "pushname": "Ana",
+      "firstSeen": "2026-01-30T22:49:23.775Z",
+      "lastActivity": "2026-01-31T00:03:13.994Z"
+    },
+    {
+      "id": "181896931754216@lid",
+      "msg": 2,
+      "cmd": 5,
+      "figu": 1,
+      "pushname": "honeymoon",
+      "firstSeen": "2026-01-30T22:57:21.112Z",
+      "lastActivity": "2026-01-30T23:57:53.950Z"
+    },
+    {
+      "id": "89532938637531@lid",
+      "msg": 25,
+      "cmd": 8,
+      "figu": 1,
+      "pushname": "isa",
+      "firstSeen": "2026-01-30T22:59:26.828Z",
+      "lastActivity": "2026-01-31T00:03:25.910Z"
+    }
+  ],
+  "modobrincadeira": true
+}

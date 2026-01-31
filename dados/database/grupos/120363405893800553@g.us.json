@@ -24,12 +24,21 @@
     },
     {
       "id": "240350782312478@lid",
-      "msg": 4,
+      "msg": 7,
       "cmd": 0,
       "figu": 0,
       "pushname": "Othavio",
       "firstSeen": "2026-01-30T22:21:52.347Z",
-      "lastActivity": "2026-01-30T22:25:27.883Z"
+      "lastActivity": "2026-01-30T23:17:49.070Z"
+    },
+    {
+      "id": "181896931754216@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "honeymoon",
+      "firstSeen": "2026-01-30T22:57:41.481Z",
+      "lastActivity": "2026-01-30T23:04:16.264Z"
     }
   ]
 }

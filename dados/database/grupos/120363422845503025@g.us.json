@@ -1,0 +1,15 @@
+{
+  "bemvindo": false,
+  "welcome": {},
+  "textbv": "",
+  "exit": {
+    "enabled": false,
+    "text": "",
+    "image": ""
+  },
+  "blacklist": {},
+  "autoAcceptRequests": false,
+  "captchaEnabled": false,
+  "x9": false,
+  "pendingCaptchas": {}
+}

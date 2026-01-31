@@ -15,12 +15,42 @@
   "contador": [
     {
       "id": "66130249003037@lid",
-      "msg": 2,
-      "cmd": 2,
-      "figu": 0,
+      "msg": 29,
+      "cmd": 8,
+      "figu": 4,
       "pushname": "Ana",
       "firstSeen": "2026-01-30T22:10:37.017Z",
-      "lastActivity": "2026-01-30T22:11:29.616Z"
+      "lastActivity": "2026-01-31T01:16:39.160Z"
+    },
+    {
+      "id": "253557706088514@lid",
+      "msg": 15,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "𝐁𝐞𝐥 🌸",
+      "firstSeen": "2026-01-30T23:55:43.619Z",
+      "lastActivity": "2026-01-31T01:17:49.467Z"
+    },
+    {
+      "id": "181896931754216@lid",
+      "msg": 21,
+      "cmd": 4,
+      "figu": 4,
+      "pushname": "honeymoon",
+      "firstSeen": "2026-01-30T23:56:04.293Z",
+      "lastActivity": "2026-01-31T01:14:06.178Z"
+    },
+    {
+      "id": "99866663465025@lid",
+      "msg": 32,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Vitor",
+      "firstSeen": "2026-01-31T00:32:08.774Z",
+      "lastActivity": "2026-01-31T01:16:25.836Z"
     }
-  ]
+  ],
+  "autorepo": true,
+  "assistente": true,
+  "assistentePersonality": "nazuna"
 }

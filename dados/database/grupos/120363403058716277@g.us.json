@@ -1,0 +1,80 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-30T22:59:37.458Z",
+  "groupName": "『 𝕿𝕽𝕺𝕻𝕬 𝕯𝕺 𝕷𝕳 & 𝕽𝖟𝖎𝖓 』",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "114586204278833@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝕭𝖔𝖙 𝕾𝖆𝖙𝖚𝖗𝖔 𝖌𝖔𝖏𝖔",
+      "firstSeen": "2026-01-30T22:59:37.475Z",
+      "lastActivity": "2026-01-30T22:59:37.476Z"
+    },
+    {
+      "id": "181896931754216@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "honeymoon",
+      "firstSeen": "2026-01-30T22:59:41.838Z",
+      "lastActivity": "2026-01-30T22:59:41.838Z"
+    },
+    {
+      "id": "159227792338982@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Indigena",
+      "firstSeen": "2026-01-30T22:59:42.988Z",
+      "lastActivity": "2026-01-30T22:59:42.988Z"
+    },
+    {
+      "id": "249877070123244@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "~luis",
+      "firstSeen": "2026-01-30T22:59:43.301Z",
+      "lastActivity": "2026-01-30T22:59:43.301Z"
+    },
+    {
+      "id": "92359110975595@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "▌│█║▌║▌║ 𝙅𝙊𝘼𝙌𝙐𝙄𝙈 ║",
+      "firstSeen": "2026-01-30T22:59:43.672Z",
+      "lastActivity": "2026-01-30T22:59:43.672Z"
+    },
+    {
+      "id": "78581342445765@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Matheus Edu",
+      "firstSeen": "2026-01-30T22:59:44.215Z",
+      "lastActivity": "2026-01-30T22:59:44.215Z"
+    },
+    {
+      "id": "234707329503322@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Barbosa",
+      "firstSeen": "2026-01-30T23:00:02.519Z",
+      "lastActivity": "2026-01-30T23:00:02.519Z"
+    }
+  ]
+}
